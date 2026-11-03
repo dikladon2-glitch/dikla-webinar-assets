@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Dikla Don//Webinar//HE
+BEGIN:VEVENT
+UID:dikla-webinar-20261203@dikladon.com
+DTSTAMP:20261103T120000Z
+DTSTART:20261203T183000Z
+DTEND:20261203T200000Z
+SUMMARY:הדרכה חיה עם דקלה דון: כשהמילים כבר לא מספיקות
+DESCRIPTION:הדרכת אונליין למטפלות רגשיות ותרפיסטיות באמנות. הלינק לזום יישלח בקבוצת הוואטסאפ ובמייל ביום ההדרכה.
+LOCATION:Zoom
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:עוד שעה מתחילות
+END:VALARM
+END:VEVENT
+END:VCALENDAR
